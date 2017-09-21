@@ -1,0 +1,20 @@
+
+.zielony a:link{         /* Przypisujemy linki z klasy zielony z divu */
+		color: #00ff00;
+		font-size: 12pt;}
+
+.zielony a:hover {
+		color:#004000;
+		font-weight: bold;}
+		
+.zielony a:visited {
+		color: "blue";}
+		
+.zielony a:active {
+		color: "red";}
+		
+img.ramka {
+		border: 5px solid black;}
+
+a:hover img.ramka {
+		border: 5px solid red;}
